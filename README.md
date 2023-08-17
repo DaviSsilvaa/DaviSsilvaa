@@ -2,8 +2,7 @@
 
 ### Universitario Bacharelando em Sistemas da informação 
 
-###Sou Dev Front-end, sempre buscando novos conhecimentos sobre as mais novas tecnologias no mercado, buscando cooperar
-em projetos ambiciosos...###
+
 
 
 
