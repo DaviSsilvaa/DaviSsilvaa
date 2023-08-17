@@ -1,10 +1,10 @@
 ### Olá meu nome é Davi Silva dos Santos😃🖖
 
-### Universitario Bacharelando em Sistemas da informação 
+### - Universitario Bacharelando em Sistemas da informação 
 
-### I'm working with Front-End Enriching my repository!
+###  - I'm working with Front-End Enriching my repository!
 
-### I'm studying React.JS recently
+### - I'm studying React.JS recently
 
 
 
