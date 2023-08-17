@@ -2,10 +2,10 @@
 
 ### Universitario Bacharelando em Sistemas da informação 
 
-I'm working with Front-End Enriching my repository
+###I'm working with Front-End Enriching my repository!
 <br>
 
-I'm studying React.JS recently
+###I'm studying React.JS recently
 
 
 
