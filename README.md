@@ -1,8 +1,9 @@
-### Olá meu nome é Davi Silva 👍
+### Olá meu nome é Davi Silva dos Santos😃🖖
 
-### 📚-Universitario Bacharelando em Sistemas de informação
+### Universitario Bacharelando em Sistemas da informação 
 
-### -Estou procurando colaborar na area de Front-end, uma area em que me encontrei aprofundadamente
+###Sou Dev Front-end, sempre buscando novos conhecimentos sobre as mais novas tecnologias no mercado, buscando cooperar
+em projetos ambiciosos...###
 
 
 
@@ -15,7 +16,7 @@
 ![DaviSsilva GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSsilva&show_icons=true&theme=gruvbox)
 
 
-### Tecnologias recentemente usadas
+### Tecnologias recentemente usadas:
 
 <div style="display: inline_block"><br/>
     <img align ="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
