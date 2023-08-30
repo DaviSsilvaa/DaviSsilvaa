@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header&text=DaviSilva&fontSize-30&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
-color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Davi+Silva;I'm+21+years+old;I+from+Brasil,+PB;I+am+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### -  Bachelor of Information Systems
 
