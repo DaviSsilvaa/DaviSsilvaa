@@ -3,6 +3,7 @@
 I'm a Front-End Developer Currently learning about Nextjs, TailWind, React.JS. I am passionate about exploring new technologies and combining them to solve real-life problems.
 </p>
 
+<p align="center"> When I'm not programming, you can find me playing video games or watching astronomy</p>
 
 ### -  Bachelor of Information Systems
 
