@@ -5,13 +5,18 @@ I'm a Front-End Developer Currently learning about Nextjs, TailWind, React.JS. I
 
 <p align="center"> When I'm not programming, you can find me playing video games or watching astronomy</p>
 
-### -  Bachelor of Information Systems
+## _I'm ..._
+<a href="#DaviSsilva-title"></a>
 
-###  - I'm working with Front-End Enriching my repository!
+-I'm working with Front-End Enriching my repository!
 
-### - I'm studying React.JS recently
+-I'm studying React.JS and Next.JS recently
 
+-[Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
 
+-20 years old
+
+-From Brazil
 
 
 
