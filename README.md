@@ -1,7 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header&text=DaviSilva&fontSize-30&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+<h2 align="center">Hello! I'm Davi. 👋</h2>
+<p align="center">
+I'm a Front-End Developer Currently learning about Nextjs, TailWind, React.JS. I am passionate about exploring new technologies and combining them to solve real-life problems.
+</p>
 
 
-### -  >>>>>>>>>>>>>>>>>>>>>> Bachelor of Information Systems
+### -  Bachelor of Information Systems
 
 ###  - I'm working with Front-End Enriching my repository!
 
