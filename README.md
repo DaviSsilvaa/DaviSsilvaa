@@ -14,7 +14,7 @@ I'm a Front-End Developer Currently learning about Nextjs, TailWind, React.JS. I
 
 -[Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
 
--20 years old
+-22 years old
 
 -From Brazil
 
