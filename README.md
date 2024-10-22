@@ -62,8 +62,8 @@ I'm continuously growing and adapting to new tools and frameworks. Here's what I
 
 Here are some of the projects I've worked on:
 
-1. 🛒 **E-commerce Website** - A fully functional online store built with **React.js** and **Next.js**.
-   - [Live Demo](https://example.com) | [GitHub Repo](https://github.com/DaviSsilvaa/e-commerce-site)
+1. 🛒 **my portfolio** - made only in **HTML**, **JavaScript**, **SCSS**.
+   - [Live Demo](https://davicode-portfolio.netlify.app/) | [GitHub Repo](https://github.com/DaviSsilvaa/Portfolio-DaviSilva)
 
 2. 📊 **Dashboard App** - An interactive dashboard using **React** and **Tailwind**.
    - [GitHub Repo](https://github.com/DaviSsilvaa/dashboard-app)
@@ -71,12 +71,10 @@ Here are some of the projects I've worked on:
 3. 🌍 **Weather App** - Real-time weather application using **API integration** with **JavaScript**.
    - [GitHub Repo](https://github.com/DaviSsilvaa/weather-app)
 
----
-
 ## 🎓 **Certifications and Achievements**
 
-- 🎖️ **Responsive Web Design** - [freeCodeCamp](https://www.freecodecamp.org/certification)
-- 🏆 **JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/certification)
+- 🎖️ **Web Developer** - **https://moodle.ifrs.edu.br/course/view.php?id=7577**
+- 🏆 **CSS: folhas de estiloS** - **https://moodle.ifrs.edu.br/course/view.php?id=7485**
 
 ---
 
