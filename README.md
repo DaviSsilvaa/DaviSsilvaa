@@ -1,3 +1,6 @@
+![GIFDEVELOPER](https://github.com/user-attachments/assets/bc078890-dbda-4a77-8a35-8f6c127987a7)
+
+
 <h1 align="center">Hello! I'm Davi. 👋</h1> 
 
 <p align="center"> 
