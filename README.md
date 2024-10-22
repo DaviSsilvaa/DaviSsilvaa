@@ -1,9 +1,4 @@
 <h1 align="center">Hello! I'm Davi. 👋</h1> <p align="center"> <em>Front-End Developer passionate about building engaging user experiences.</em><br /> <em>Currently exploring new technologies to solve real-world problems efficiently!</em> </p> <p align="center"> When I'm not coding, you can find me playing video games 🎮 or stargazing 🔭</p>
-🙋‍♂️ About Me
-🔨 Currently enhancing my skills in React.js, Next.js, and Tailwind CSS.
-🎓 Studying Information Systems at Federal University of Paraíba.
-🌱 Focused on mastering Front-End Development and creating seamless user interfaces.
-🌟 Skills and Technologies
 <br>
 <br>
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
