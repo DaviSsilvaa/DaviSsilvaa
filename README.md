@@ -13,7 +13,7 @@
 
 ## 🚀 **About Me**
 
-- 🔨 Currently enhancing my skills in **React.js**, **Next.js**, and **Tailwind CSS**.
+- 🔨 Currently enhancing my skills in **React.js**, **Next.js**, **Tailwind CSS** and **Angular.js**.
 - 🎓 Studying **Information Systems** at [Federal University of Paraíba](https://www.ufpb.br/).
 - 🌱 Focused on mastering **Front-End Development** and creating seamless user interfaces.
 - 💼 Open for collaboration on innovative tech projects!
