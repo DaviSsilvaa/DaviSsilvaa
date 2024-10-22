@@ -1,37 +1,42 @@
-<h2 align="center">Hello! I'm Davi. 👋</h2>
-<p align="center">
-I'm a Front-End Developer Currently learning about Nextjs, TailWind, React.JS. I am passionate about exploring new technologies and combining them to solve real-life problems.
-</p>
+<h1 align="center">Hello! I'm Davi. 👋</h1> <p align="center"> <em>Front-End Developer passionate about building engaging user experiences.</em><br /> <em>Currently exploring new technologies to solve real-world problems efficiently!</em> </p> <p align="center"> When I'm not coding, you can find me playing video games 🎮 or stargazing 🔭</p>
+🙋‍♂️ About Me
+🔨 Currently enhancing my skills in React.js, Next.js, and Tailwind CSS.
+🎓 Studying Information Systems at Federal University of Paraíba.
+🌱 Focused on mastering Front-End Development and creating seamless user interfaces.
+💼 Open for collaboration on projects and innovative tech ideas!
+🇧🇷 Based in Brazil, 22 years old.
+🌟 Skills and Technologies
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+📚 Learning Journey
+I'm continuously growing and adapting to new tools and frameworks. Here's what I'm focusing on right now:
 
-<p align="center"> When I'm not programming, you can find me playing video games or watching astronomy</p>
-
-## _I'm ..._
-<a href="#DaviSsilva-title"></a>
-
--I'm working with Front-End Enriching my repository!
-
--I'm studying React.JS and Next.JS recently
-
--[Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
-
--22 years old
-
--From Brazil
+Next.js (Advanced)
+Tailwind CSS (Intermediate)
+TypeScript (Intermediate)
+Backend basics (Node.js)
+Learning Progress:
 
 
+📂 Featured Projects
+Here are a few projects that I'm proud of:
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/gssj9264@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisilvaas/)
+🛒 E-commerce Website - A fully functional online store built with React.js and Next.js.
+
+GitHub Repo
+📊 Dashboard App - An interactive dashboard using React and Tailwind.
+
+GitHub Repo
+🌍 Weather App - Real-time weather application using API integration with JavaScript.
+
+GitHub Repo
+📊 GitHub Stats
+<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviSsilvaa&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" alt="Davi's GitHub stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSsilvaa&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" /> </div>
+📬 Let's Connect
+Feel free to connect with me! I'm always excited to chat about new projects, collaborations, or technology in general. You can reach me at:
 
 
-### Tecnologias recentemente usadas:
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviSsilvaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Davi Silva dos Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSsilvaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+🎉 Thank You for Visiting!
+Thanks for taking the time to check out my profile. Feel free to browse around and explore my repositories, and don't hesitate to reach out if you have any questions or opportunities!
 
-<br>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=120&section=footer"/>
