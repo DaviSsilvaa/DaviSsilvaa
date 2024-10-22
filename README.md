@@ -73,8 +73,8 @@ Here are some of the projects I've worked on:
 
 ## 🎓 **Certifications and Achievements**
 
-- 🎖️ **Web Developer** - **https://moodle.ifrs.edu.br/course/view.php?id=7577**
-- 🏆 **CSS: folhas de estiloS** - **https://moodle.ifrs.edu.br/course/view.php?id=7485**
+- 🎖️ **[Web Developer](https://moodle.ifrs.edu.br/course/view.php?id=7577)** - *IFRS*
+- 🏆 **[CSS: Folhas de Estilo](https://moodle.ifrs.edu.br/course/view.php?id=7485)** - *IFRS*
 
 ---
 
