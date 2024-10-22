@@ -104,12 +104,6 @@ Feel free to connect with me! I'm always excited to chat about new projects, col
 
 ---
 
-## 🐍 **Snake eating my contributions**
-
-![Snake animation](https://github.com/DaviSsilvaa/DaviSsilvaa/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎉 **Thank You for Visiting!**
 
 Thanks for taking the time to check out my profile. Feel free to browse around and explore my repositories, and don't hesitate to reach out if you have any questions or opportunities!
