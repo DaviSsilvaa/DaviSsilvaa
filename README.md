@@ -5,6 +5,7 @@
 🌱 Focused on mastering Front-End Development and creating seamless user interfaces.
 🌟 Skills and Technologies
 <br>
+<br>
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 📚 Learning Journey
 I'm continuously growing and adapting to new tools and frameworks. Here's what I'm focusing on right now:
@@ -15,17 +16,6 @@ TypeScript (Intermediate)
 Backend basics (Node.js)
 Learning Progress:
 
-
-📂 Featured Projects
-Here are a few projects that I'm proud of:
-
-🛒 E-commerce Website - A fully functional online store built with React.js and Next.js.
-
-GitHub Repo
-📊 Dashboard App - An interactive dashboard using React and Tailwind.
-
-GitHub Repo
-🌍 Weather App - Real-time weather application using API integration with JavaScript.
 
 GitHub Repo
 📊 GitHub Stats
