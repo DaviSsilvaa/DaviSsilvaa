@@ -43,7 +43,7 @@ I'm continuously growing and adapting to new tools and frameworks. Here's what I
 
 - 🧑‍💻 **Next.js** (Advanced)
 - 🎨 **Tailwind CSS** (Intermediate)
-- ⚡ **TypeScript** (Intermediate)
+- ⚡ **TypeScript** (Advanced)
 - 🌐 **Backend basics** (Node.js)
 
 **Learning Progress:**
