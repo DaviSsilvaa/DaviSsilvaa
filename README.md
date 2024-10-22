@@ -30,5 +30,5 @@ Thanks for taking the time to check out my profile. Feel free to browse around a
 
 ## 🐍 **Snake eating my contributions**
 
-![Snake animation](https://github.com/DaviSsilvaa/DaviSsilvaa/blob/main/snake.yml)
+![Snake animation](https://raw.githubusercontent.com/levimaciell/levimaciell/output/snake.svg)
 
