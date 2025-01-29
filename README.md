@@ -68,12 +68,6 @@ Here are some of the projects I've worked on:
 1. 🛒 **my portfolio** - made only in **HTML**, **JavaScript**, **SCSS**.
    - [Live Demo](https://davicode-portfolio.netlify.app/) | [GitHub Repo](https://github.com/DaviSsilvaa/Portfolio-DaviSilva)
 
-2. 📊 **Dashboard App** - An interactive dashboard using **React** and **Tailwind**.
-   - [GitHub Repo](https://github.com/DaviSsilvaa/dashboard-app)
-
-3. 🌍 **Weather App** - Real-time weather application using **API integration** with **JavaScript**.
-   - [GitHub Repo](https://github.com/DaviSsilvaa/weather-app)
-
 ## 🎓 **Certifications and Achievements**
 
 - 🎖️ **[Web Developer](https://moodle.ifrs.edu.br/course/view.php?id=7577)** - *IFRS*
